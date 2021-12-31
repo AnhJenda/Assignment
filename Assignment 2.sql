@@ -1,3 +1,4 @@
+﻿
 ﻿if exists (select * from sys.databases where name = 'Assignment2')
 	drop database Assignment2
 create database Assignment2
